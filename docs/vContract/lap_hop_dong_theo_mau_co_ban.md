@@ -14,12 +14,12 @@ Lập hợp đồng bao gồm hai hình thức: Chọn tệp từ máy hoặc Ch
 
 - **Bước 0:**  Tại màn hình Trang chủ, bấm chọn **Hợp đồng của tôi** à**Lập hợp đồng** >> Chọn nút “**Chọn tệp từ máy**”
 
-![](picture\PIC_SME_Vcontract_LapHopDongChonTuTepMay.png)
+![](./picture/PIC_SME_Vcontract_LapHopDongChonTuTepMay.png)
 
 - **Bước 1:** Hệ thống hiển thị popup chọn file trên thiết bị. Lưu ý: chỉ chọn file pdf
 - **Bước 2:** Sau khi tải file thành công. Hệ thống hiển thị màn hình **Nhập thông tin chung**
 
-![](picture\PIC_SME_Vcontract_LapHopDongChonTuTepMay2.png)
+![](./picture/PIC_SME_Vcontract_LapHopDongChonTuTepMay2.png)
 
 **Trong đó:**
 
@@ -43,7 +43,7 @@ Bao gồm:
 - Nhập đúng email để suggest thông tin thành viên.
 - **Bước 3:** Sau khi điền thông tin và thiết lập luồng ký ở bước 2. Bấm **Tiếp theo** >> Chuyển đến màn hình 
 
-![](picture\PIC_SME_Vcontract_LapHopDongChonTuTepMay3.png)
+![](./picture/PIC_SME_Vcontract_LapHopDongChonTuTepMay3.png)
 
 Trong đó: 
 
@@ -63,15 +63,15 @@ Trong đó:
 
 - **Bước 0:**  Tại màn hình Trang chủ, bấm chọn **Hợp đồng của tôi** à**Lập hợp đồng** à Chọn nút “**Chọn từ mẫu**”
 
-![](picture\PIC_SME_Vcontract_LapHopDongChonTuMau1.png)
+![](./picture/PIC_SME_Vcontract_LapHopDongChonTuMau1.png)
 
 - **Bước 1:** Hệ thống hiển thị popup chọn mẫu hợp đồng. Người dùng thao tác chọn mẫu đã có  bấm Lưu
 
-![](picture\PIC_SME_Vcontract_LapHopDongChonTuMau2.png)
+![](./picture/PIC_SME_Vcontract_LapHopDongChonTuMau2.png)
 
 - **Bước 2:** Sau khi chọn mẫu thành công, hệ thống hiển thị màn hình **Nhập thông tin chung**
 
-![i](picture\PICSME_Vcontract_LapHopDongChonTuMau3.png)
+![i](./picture/PICSME_Vcontract_LapHopDongChonTuMau3.png)
 
 **Trong đó:**
 
@@ -95,7 +95,7 @@ Trong đó:
 - Nhập đúng email để suggest thông tin thành viên.
 - **Bước 3:** Sau khi điền thông tin và thiết lập luồng ký ở bước 2. Bấm **Tiếp theo** >> Chuyển đến màn hình **Điền nội dung hợp đồng**
 
-![](picture\PIC_SME_Vcontract_LapHopDongChonTuMau3.png)
+![](./picture/PIC_SME_Vcontract_LapHopDongChonTuMau3.png)
 
 Hệ thống tự động bind thông tin theo mẫu cấu hình, người dùng thực hiện điền thông tin hợp đồng tại cột **Giá trị** của bảng tại Tab **Điền thông tin và tính toán**
 
@@ -105,7 +105,7 @@ Sau khi điền thông tin bấm Tiếp theo để đến bước 4
 
 - Bước 4: Hiển thị màn hình **Xem trước hợp đồng**
 
-![](picture\PIC_SME_Vcontract_LapHopDongChonTuMau4.png)
+![](./picture/PIC_SME_Vcontract_LapHopDongChonTuMau4.png)
 
 Trong đó: 
 
@@ -125,7 +125,7 @@ Trong đó:
 
 - **Bước 1:**  Tại Menu danh mục **Hợp đồng của tôi** à Chọn **Hợp đồng tôi lập**. Hệ thống hiển thị màn hình **Hợp đồng tôi lập**
 
-![](picture\PIC_SME_Vcontract_ChinhSuaHopDong3.png)
+![](./picture/PIC_SME_Vcontract_ChinhSuaHopDong3.png)
 
 - **Bước 2:** Chọn hợp đồng và bấm nút **Chỉnh sửa**. Tuỳ hợp đồng được chọn lập theo hình thức Chọn tệp từ máy hay Chọn từ mẫu hệ thống sẽ hiển thị ra màn hình tươngứng
   - Nếu **Chọn tệp từ máy** >> Chuyển Màn hình bước 3
@@ -141,13 +141,13 @@ Trong đó:
 
 - **Bước 1:**  Tại Menu danh mục **Hợp đồng của tôi** >> Chọn **Hợp đồng tôi lập**. Hệ thống hiển thị màn hình **Hợp đồng tôi lập**
 
-![](picture\PIC_SME_Vcontract_SaoChepHopDong1.png)
+![](./picture/PIC_SME_Vcontract_SaoChepHopDong1.png)
 
 - **Bước 2:** Chọn hợp đồng và bấm nút **Sao chép**. Tuỳ hợp đồng được chọn lập theo hình thức Chọn tệp từ máy hay Chọn từ mẫu hệ thống sẽ hiển thị ra màn hình tương ứng
   
   Nếu **Chọn tệp từ máy** >> Chuyển Màn hình bước 3 và có nút **Chọn tệp từ máy** để chọn file hợp đồng
 
-![](picture\PIC_SME_Vcontract_SaoChepHopDong2.png)
+![](./picture/PIC_SME_Vcontract_SaoChepHopDong2.png)
 
 ​     Nếu **Chọn từ mẫu** >> Chuyển đến Màn hình bước 1, các thông tin ở màn hình bước 1 và màn hình bước 2 được giữ nguyên như sao chép.
 

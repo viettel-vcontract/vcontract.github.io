@@ -3,7 +3,7 @@
 
 - Đăng nhập vào tài khoản doanh nghiệp >> Hiển thị màn hình Trang chủ.
 
-![](picture\PIC_SME_Vcontract_TrangChu.png)
+![](./picture/PIC_SME_Vcontract_TrangChu.png)
 #### **Thống kê tài nguyên của doanh nghiệp**
 - Thống kê tài nguyên của doanh nghiệp: Số lượng hợp đồng chưa sử dụng, tài khoản SMS còn lại. Nếu số lượng hợp đồng và số tiền sử dụng gửi tin nhắn SMS của doanh nghiệp sắp hết hoặc hết thì hệ thống sẽ hiển thị cảnh báo cho doanh nghiệp trên màn hình dashboard.
 #### **Hợp đồng theo doanh nghiệp**
@@ -34,7 +34,7 @@
 
 - **B1** : Trên trang chủ, vào Thông tin doanh nghiệp (1) => chọn Thông tin doanh nghiệp (2).
 
-![](picture\PIC_SME_Vcontract_ThongTinDoanhNghiep.png)
+![](./picture/PIC_SME_Vcontract_ThongTinDoanhNghiep.png)
 
 - **B2 :** Màn hình hiển thị các thông tin hiện tại của doanh nghiệp như trên. Thông tin doanh nghiệp: 
   
@@ -76,25 +76,25 @@
 ##### **Tìm kiếm chứng thư số**
 - **B1 :** Từ trang chủ chọn “Thông tin doanh nghiệp” >> “Phương thức ký”
 
-![](picture\PIC_SME_Vcontract_PhuongThucKy1.png)
+![](./picture/PIC_SME_Vcontract_PhuongThucKy1.png)
 
 - **B2 :** Chọn tiêu chí tìm kiếm
   - Tiêu chí tìm kiếm gồm :
   - Phương thức ký : Tất cả, Sim CA, USB Token, HSM	
 
-![](picture\PIC_SME_Vconctract_PhuongThucKy2.png)
+![](./picture/PIC_SME_Vconctract_PhuongThucKy2.png)
 
 Danh kết quả sẽ hiển thị ở phần danh sách phương thức ký
 
-![](picture\PIC_SME_Vcontract_PhuongThucKy3.png)
+![](./picture/PIC_SME_Vcontract_PhuongThucKy3.png)
 ##### **Xem chi tiết chứng thư số**
 - **B1 :** Từ danh sách chứng thư số chọn “Button xem chi tiết”
 
-![](picture\PIC_SME_Vcontract_PhuongThucKy4.png)
+![](./picture/PIC_SME_Vcontract_PhuongThucKy4.png)
 
 - **B2 :** Popup thông tin chứng thư xuất hiện như hình dưới
 
-![](picture\PIC_SME_Vcontract_PhuongThucKy5.png)
+![](./picture/PIC_SME_Vcontract_PhuongThucKy5.png)
 #### **Quản lý chi nhánh**
 ##### **Tìm kiếm chi nhánh doanh nghiệp**
    **Mục đích:** Mặc định hệ thống sẽ hiển thị tất cả các chi nhánh của doanh nghiệp. Để xem thông tin của một hoặc một nhóm các chi nhánh cụ thể quản trị viên cần nhập thông tin vào các mục trong phần tìm kiếm.
@@ -105,13 +105,13 @@ Danh kết quả sẽ hiển thị ở phần danh sách phương thức ký
 
 - Lưu ý khi nhập thông tin tìm kiếm, có thể nhập bất kỳ một trong ba thông tin Tên chi nhánh hoặc Mã số thuế hoặc Số giấy tờ. Hệ thống sẽ hiển thị tất       cả chi nhánh có Tên/MST/Số giấy tờ có thông tin trùng với chuỗi ký tự đã nhập. 
 
-![image-20220408085357439](picture\PIC_SME_Vcontract_QuanLyChiNhanh1.png)
+![image-20220408085357439](./picture/PIC_SME_Vcontract_QuanLyChiNhanh1.png)
 
 - Kết quả tìm kiếm được hiển thị theo trang, mặc định là 10 bản ghi một. Quản trị viên có thể lựa chọn xem số chi nhánh trong 1 trang tại mục Số bản ghi trên trang bằng cách click vào biểu tượng **Hiển thị bản ghi **
 
 Tổng số bản ghi được hiển thì trong mục tổng số bản ghi ở góc dưới bên phải màn hình. Để xem trang trang tiếp theo quản trị viên nhấn vào dấu ‘>|’, để xem trang trước quản trị viên nhấn vào dấu ‘|<’.
 
-![](picture\PIC_SME_Vcontract_QuanlyChiNhanh2.png)
+![](./picture/PIC_SME_Vcontract_QuanlyChiNhanh2.png)
 ##### **Tạo mới chi nhánh doanh nghiệp**
 `	`**Mục đích** : Dành cho trường hợp doanh nghiệp mở thêm mới một chi nhánh thì cần update thông tin của chi nhánh vào để quản lý.
 
@@ -119,11 +119,11 @@ Tổng số bản ghi được hiển thì trong mục tổng số bản ghi ở
 
 - **B1 :** Tại màn hình quản lý chi nhánh, quản trị viên nhấn vào nút **Thêm mới**  ở góc trên bên phải.
 
-![](picture\PIC_SME_Vcontract_QuanLyChiNhanh3.png)
+![](./picture/PIC_SME_Vcontract_QuanLyChiNhanh3.png)
 
 Hệ thống sẽ chuyển sang màn hình thêm mới chi nhánh:
 
-![](picture\PIC_SME_Vcontract_QuanLyChiNhanh4.png)
+![](./picture/PIC_SME_Vcontract_QuanLyChiNhanh4.png)
 
 - **B2 :** Quản trị viên cần nhập đẩy đủ các thông tin theo yêu cầu, bao gồm: 
          **Thông tin doanh nghiệp:** 
@@ -162,7 +162,7 @@ Hệ thống sẽ chuyển sang màn hình thêm mới chi nhánh:
 
 Sau khi lưu hệ thống sẽ tự động chuyển về màn hình Quản lý chi nhánh có chi nhánh vừa thêm hiển thị trên đầu danh sách. 
 
-![](picture\PIC_SME_Vcontract_QuanLyChiNhanh5.png)
+![](./picture/PIC_SME_Vcontract_QuanLyChiNhanh5.png)
 
 Nếu không muốn tạo mới chi nhánh Quản trị viên có thể nhấn button **Huỷ bỏ** (1). Hệ thống sẽ hiển thị thông báo rằng nếu hủy bỏ thì các dữ liệu vừa nhập sẽ bị biến mất. Nếu chấp nhận thì quản trị viên nhấn nút **Đồng ý**  (2), nếu không thì quản trị viên nhấn nút **Bỏ qua** để tiếp tục việc thêm mới chi nhánh.
 
@@ -174,7 +174,7 @@ Nếu không muốn tạo mới chi nhánh Quản trị viên có thể nhấn b
 
 - **B1 :** Tại màn hình quản lý chi nhánh, Quản trị viên nhấn vào biểu tượng **Bút viết** trong cột Tác động ở chi nhánh cần cập nhật thông tin. 
 
-![](picture\PIC_SME_Vcontract_QuanLyChiNhanh6.png)
+![](./picture/PIC_SME_Vcontract_QuanLyChiNhanh6.png)
 
 Hệ thống sẽ chuyển sang màn hình Cập nhật chi nhánh với các thông tin hiện tại của chi nhánh
 
@@ -223,11 +223,11 @@ Nếu chi nhánh bị ngưng hoạt động thì quản trị viên của chi nh
 
 - **B1 :** Tại màn hình quản lý chi nhánh, quản trị viên nhấn vào biểu tượng **Khóa** trong cột trạng thái tại dòng muốn cập nhật trạng thái.
 
-![](picture\PIC_SME_vcontract_QuanLyChiNhanh7.png)
+![](./picture/PIC_SME_vcontract_QuanLyChiNhanh7.png)
 
 Hệ thống sẽ hiển thị popup xác nhận việc thay đổi trạng thái
 
-![](picture\PIC_SME_Vcontract_QuanLyChiNhanh8.png)
+![](./picture/PIC_SME_Vcontract_QuanLyChiNhanh8.png)
 
 Nếu nhấn nút **Đồng ý** thì trạng thái của chi nhánh được cập nhật, nếu nhấn nút **Bỏ qua** thì trạng thái của chi nhánh vẫn giữ nguyên như cũ. 
 #### **Quản lý nhóm quyền**
@@ -238,11 +238,11 @@ Nếu nhấn nút **Đồng ý** thì trạng thái của chi nhánh được c�
 
 - **B1** : Vào menu “Quản lý TT doanh nghiệp”  => Chọn “Nhóm quyền” 
 
-![](picture\PIC_SME_Vcontract_QLNQ_TimKiemNhomQuyen.png)
+![](./picture/PIC_SME_Vcontract_QLNQ_TimKiemNhomQuyen.png)
 
 - **B2** : Nhập thông tin “Tên nhóm” à Chọn “trạng thái” à Nhấn nút **Tìm kiếm**
 
-![](picture\PIC_SME_Vcontract_QLNQ_TimKiemNhomQuyen2.png)
+![](./picture/PIC_SME_Vcontract_QLNQ_TimKiemNhomQuyen2.png)
 
 - **B3 :** Hiển thị kết quả sau khi tìm kiếm
   **Hiển thị thông tin kết quả tìm kiếm bao gồm:**
@@ -254,11 +254,11 @@ Nếu nhấn nút **Đồng ý** thì trạng thái của chi nhánh được c�
   - Trạng thái 
   - Tác động
 
-![](picture\PIC_SME_Vcontract_QLNQ_TimKiemNhomQuyen3.png)
+![](./picture/PIC_SME_Vcontract_QLNQ_TimKiemNhomQuyen3.png)
 
 - **B4 :** Click chuyển trang để sang trang mới
 
-![](picture\PIC_SME_Vcontract_QLNQ_TimkiemNhomQuyen4.png)
+![](./picture/PIC_SME_Vcontract_QLNQ_TimkiemNhomQuyen4.png)
 
 - **Các phím chức năng gồm :**
 
@@ -278,7 +278,7 @@ Nếu nhấn nút **Đồng ý** thì trạng thái của chi nhánh được c�
   - ` `20
   - ` `50
 
-![](picture\PIC_SME_Vcontract_QLNQ_TimKiemNhomQuyen5.png)
+![](./picture/PIC_SME_Vcontract_QLNQ_TimKiemNhomQuyen5.png)
 ##### **Cập nhật thông tin nhóm quyền**
 `	`**Mục đích:** giúp quản trị viên có thể chỉnh sửa tên nhóm, mô tả nhóm và thay đổi quyền hạn nhóm.
 
@@ -286,11 +286,11 @@ Nếu nhấn nút **Đồng ý** thì trạng thái của chi nhánh được c�
 
 - ` `**B1 :** Vào menu “Quản lý TTdoanh nghiệp” à Chọn “Nhóm quyền” à tại cột “Tác động” Chọn biểu tượng bút viết để sửa thông tin:
 
-![](picture\PIC_SME_Vcontract_QLNQ_CapNhatThongTinNhomQuyen1.png)
+![](./picture/PIC_SME_Vcontract_QLNQ_CapNhatThongTinNhomQuyen1.png)
 
 - **B2 :** sửa các thông tin cần thiết > Chọn Lưu
 
-![](picture\PIC_SME_Vcontract_QLNQ_CapNhatThongTinNhomQuyen2.png)
+![](./picture/PIC_SME_Vcontract_QLNQ_CapNhatThongTinNhomQuyen2.png)
 
 **Ghi chú :** Trường có dấu \* là trường bắt buộc nhập. Người dùng phải nhập những trường này thì mới cập nhật được nhóm quyền. 
 
@@ -304,14 +304,14 @@ Trường “Tên nhóm” không được trùng với những tên nhóm đã 
 
 - **B1 :** Vào menu “Quản lý TT doanh nghiệp” à Chọn “Nhóm quyền” à tại cột tác động Chọn biểu tượng **Tác động**: 
 
-![](picture\PIC_SME_Vcontract_QLNQ_PhanQuyenChoNhomQuyen1.png)
+![](./picture/PIC_SME_Vcontract_QLNQ_PhanQuyenChoNhomQuyen1.png)
 
-![](picture\PIC_SME_Vcontract_QLNQ_PhanQuyenChoNhomQuyen2.png)
+![](./picture/PIC_SME_Vcontract_QLNQ_PhanQuyenChoNhomQuyen2.png)
 
 - **B2 :** chọn các quyền tương ứng cho nhóm quyền > Chọn Lưu
 - **B3 :**  Hiển thị thông báo “Bạn có thực sự muốn phân quyền nhóm người dùng …?” 
 
-![](picture\PIC_SME_Vcontract_QLNQ_PhanQuyenChoNhomQuyen3.png)
+![](./picture/PIC_SME_Vcontract_QLNQ_PhanQuyenChoNhomQuyen3.png)
 
 - **B4 :** Nhấn nút **Đồng ý** để phân quyền nhóm hoặc nhấn nút **Bỏ qua** để trở lại form “phân quyền”. Trường hợp nhấn nút **Đồng ý** thì hiển thị thông báo **Cập nhật thành công**
 
@@ -324,11 +324,11 @@ Trường “Tên nhóm” không được trùng với những tên nhóm đã 
 
 - **B1 :** Vào menu “Quản lý TTdoanh nghiệp” >> Chọn “Nhóm quyền” >> Chọn biểu tượng **Khóa** hoặc biểu tượng **Mở khóa**
 
-![](picture\PIC_SME_Vcontract_QLNQ_ThayDoiTrangThaiNhomQuyen1.png)
+![](./picture/PIC_SME_Vcontract_QLNQ_ThayDoiTrangThaiNhomQuyen1.png)
 
 - **B2 :** Trường hợp chọn **Khóa**  Hiển thị thông báo “Bạn có muốn thay đổi trạng thái từ **Ngừng hoạt động** thành **Hoạt động** của nhóm quyền **…**?”
 
-![](picture\PIC_SME_Vcontract_QLNQ_thayDoiTrangThaiNhomQuyen2.png)
+![](./picture/PIC_SME_Vcontract_QLNQ_thayDoiTrangThaiNhomQuyen2.png)
 
 --> Chọn **Đồng ý** để thay đổi trạng thái thành “Hoạt động”.
 
@@ -336,7 +336,7 @@ Trường “Tên nhóm” không được trùng với những tên nhóm đã 
 
 Trường hợp chọn **Mở khóa** >> Hiển thị thông báo “Bạn có muốn thay đổi trạng thái từ **Hoạt động** thành **Ngừng hoạt động** của nhóm quyền**…**?”
 
-![](picture\PIC_SME_Vcontract_QLNQ_ThayDoiTrangThaiNhomQuyen3.png)
+![](./picture/PIC_SME_Vcontract_QLNQ_ThayDoiTrangThaiNhomQuyen3.png)
 
 --> Chọn **Đồng ý** để thay đổi trạng thái thành “Ngừng hoạt động”.
 
@@ -350,11 +350,11 @@ Trường hợp chọn **Mở khóa** >> Hiển thị thông báo “Bạn có m
 
 - **B1 :** Vào menu “Quản lý TT doanh nghiệp”à Người dùng à nhập “Doanh nghiệp / Chi nhánh” , “Email / Tên đăng nhập”,”Trạng thái” à nhấn nút “Tìm kiếm” .
 
-![](picture\PIC_SME_Vcontract_QLND_TimKiemNguoiDung1.png)
+![](./picture/PIC_SME_Vcontract_QLND_TimKiemNguoiDung1.png)
 
 - **B2:** Xem kết quả tìm kiếm hiển thị danh sách người dùng phù hợp.
 
-![](picture\PIC_SME_Vcontract_QLND_TimKiemNguoiDung2.png)
+![](./picture/PIC_SME_Vcontract_QLND_TimKiemNguoiDung2.png)
 - **Hiển thị thông tin kết quả bao gồm:**
   - Số lượng kết quả tìm thấy
   - Số thứ tự
@@ -376,7 +376,7 @@ Trường hợp chọn **Mở khóa** >> Hiển thị thông báo “Bạn có m
 
 - **B1 :** Chọn biểu tượng **Tác động** ở mục “Tác động” với người dùng muốn phân quyền.
 
-![](picture\PIC_SME_Vcontract_QLND_PhanQuyenChoNguoiDung1.png)
+![](./picture/PIC_SME_Vcontract_QLND_PhanQuyenChoNguoiDung1.png)
 
 - **B2 :** Chọn quyền cho người dùng sau đó bấm nút **Lưu** để lưu thay đổi phân quyền, bấm **Hủy bỏ** để hủy phân quyền.
 
@@ -388,7 +388,7 @@ Trường hợp chọn **Mở khóa** >> Hiển thị thông báo “Bạn có m
 - **B1 :** Chọn biểu tượng **Khóa** ”Ngừng hoạt động” hoặc **Mở khóa** ”Hoạt động” 
 - **B2 :** Hiện thị thông báo xác nhận:
 
-![](picture\PIC_SME_Vcontract_QLND_ThayDoiTrangThaiNguoiDung.png)
+![](./picture/PIC_SME_Vcontract_QLND_ThayDoiTrangThaiNguoiDung.png)
 
 `   `Bấm **Đồng ý** để tiến hành thay đổi trạng thái, bấm **Hủy bỏ** để hủy thao tác.
 
@@ -429,12 +429,12 @@ Trường hợp chọn **Mở khóa** >> Hiển thị thông báo “Bạn có m
 
 - **B1** : Vào Menu -> chọn Quản lý TT Doanh nghiệp -> chọn Danh mục khách hàng
 
-![](picture\PIC_SME_Vcontract_QLND_TimKiemThongTinKhachHang1.png)
+![](./picture/PIC_SME_Vcontract_QLND_TimKiemThongTinKhachHang1.png)
 
 - **B2**: Nhập thông tin của khách hàng cần tìm kiếm vào các trường
 - **B3**: Click vào nút **Tìm kiếm**
 
-![](picture\PIC_SME_Vcontract_QLND_TimKiemThongTinKhachHang2.png)
+![](./picture/PIC_SME_Vcontract_QLND_TimKiemThongTinKhachHang2.png)
 ##### **Xem chi tiết thông tin khách hàng**
 `	`**Mục đích**: Chức năng cho phép quản trị hệ thống xem chi tiết cụ thể tất cả thông tin của khách hàng mà chưa được hiển thị ngoài trang chính. Thông tin hiển thị chi tiết bao gồm thông tin của khách hàng, người đại diện, liên hệ, thanh toán, và những tệp đính kèm (nếu có). 
 
@@ -442,11 +442,11 @@ Trường hợp chọn **Mở khóa** >> Hiển thị thông báo “Bạn có m
 
 Ở trang hiển thị danh sách khách hàng -> Nhấn vào biểu tượng con mắt ở dòng muốn xem chi tiết -> Chuyển qua trang hiển thị chi tiết thông tin khách hàng
 
-` `![](picture\PIC_SME_Vcontract_QLND_XemChiTietThongTinKhachHang1.png)
+` `![](./picture/PIC_SME_Vcontract_QLND_XemChiTietThongTinKhachHang1.png)
 
 Chuyển sang trang hiển thị chi tiết thông tin khách hàng
 
-![](picture\PIC_SME_Vcontract_QLND_XemChiTietThongTinKhachHang2.png)
+![](./picture/PIC_SME_Vcontract_QLND_XemChiTietThongTinKhachHang2.png)
 ##### **Cập nhật thông tin khách hàng**
 `	`**Mục đích**: Chức năng cho phép quản trị hệ thống cập nhật những thông tin của khách hàng khi khách hàng có những thay đổi thông tin.
 
@@ -454,15 +454,15 @@ Chuyển sang trang hiển thị chi tiết thông tin khách hàng
 
 - **B1**: Ở ngoài trang hiển thị danh sách khách hàng -> click vào biểu tượng cập nhật trên dòng khách hàng muốn thay đổi thông tin -> chuyển hướng qua trang cập nhật thông tin khách hàng
 
-![](picture\PIC_SME_Vcontract_QLND_CapNhatThongTinKhachHang1.png)
+![](./picture/PIC_SME_Vcontract_QLND_CapNhatThongTinKhachHang1.png)
 
 - **B2** : Hiển thị thông tin của khách hàng. Nhập thông tin cần thay đổi vào các trường để cập nhật thông tin khách hàng
 
-![](picture\PIC_SME_Vcontract_QLND_CapNhatThongTinKhachHang2.png)
+![](./picture/PIC_SME_Vcontract_QLND_CapNhatThongTinKhachHang2.png)
 
 - **B3** : Click nút **Lưu** -> nếu thành công hiểu thị thông báo thành công và chuyển về trang hiển thị danh sách khách hàng với thông tin mới được cập nhật
 
-![](picture\PIC_SME_Vcontract_QLND_CapNhatThongTinKhachHang3.png)
+![](./picture/PIC_SME_Vcontract_QLND_CapNhatThongTinKhachHang3.png)
 ##### **Xóa khách hàng**
 `	`**Mục đích**: Chức năng cho phép quản trị hệ thống xóa khách hàng khỏi hệ thống.
 
@@ -470,33 +470,33 @@ Chuyển sang trang hiển thị chi tiết thông tin khách hàng
 
 - **B1** : ở trang hiển thị danh sách khách hàng, chọn khách hàng muốn xóa -> Nhấn vào biểu tượng xóa  
 
-![](picture\PIC_SME_Vcontract_QLND_XoaKhachHang1.png)
+![](./picture/PIC_SME_Vcontract_QLND_XoaKhachHang1.png)
 
 - **B2** : Hiển thị thông báo xác nhận muốn xóa khách hàng. Nếu click nút **Đồng Ý** -> hiển thị thông báo xóa thành công và khách hàng bị xóa khỏi danh sách hiện tại. Nếu click nút **Hủy** ->** quay về trang hiển thị khách hàng
 
-![](picture\PIC_SME_Vcontract_QLND_XoaKhachHang2.png)
+![](./picture/PIC_SME_Vcontract_QLND_XoaKhachHang2.png)
 ##### **Import Khách hàng**
 - Hệ thống cho phép thêm mới khách hàng theo số lượng lớn thông qua tính năng import Khách hàng qua file excel
 - Vào Danh mục Khách hàng > Chọn button Thêm từ file như bên dưới
 
-![](picture\PIC_SME_Vcontract_QLND_ImportKhanhHang1.png)
+![](./picture/PIC_SME_Vcontract_QLND_ImportKhanhHang1.png)
 
 - Chọn button Thêm từ file và hiện thị popup Thêm file
 
-![](picture\PIC_SME_Vcontract_QLND_ImportKhachHang2.png)
+![](./picture/PIC_SME_Vcontract_QLND_ImportKhachHang2.png)
 
 - Click vào ‘Mẫu’ để tải Biểu mẫu import về. Để import thành công thì phải sử dụng đúng file mẫu này
 
-![](picture\PIC_SME_Vcontract_QLND_ImportKhachHang3.png)
+![](./picture/PIC_SME_Vcontract_QLND_ImportKhachHang3.png)
 
 - Nhập đầy đủ các dữ liệu hợp lệ cho các trường trong file excel. Và thực hiện import để thêm được hàng loạt khách hàng vào hệ thống
 - Chọn button Chọn tệp để thực hiện import. 
 
-![](picture\PIC_SME_Vcontract_QLND_ImportKhachHang4.png)
+![](./picture/PIC_SME_Vcontract_QLND_ImportKhachHang4.png)
 
 - Chọn file xong thì tên file hiện thị ở popup và chọn button Thêm khách hàng như bên dưới
 
-![](picture\PIC_SME_Vcontract_QLND_ImportKhachHang5.png)
+![](./picture/PIC_SME_Vcontract_QLND_ImportKhachHang5.png)
 
 - Hệ thống thông báo Thêm khách hàng thành công và ấn F5 để tải lại trang và hiện thị các dữ liệu mới nhất vừa được thêm vào
 
@@ -504,11 +504,11 @@ Lưu ý: **Trong trường hợp import file bị lỗi dữ liệu**
 
 - Nếu file import có chứa dữ liệu ko hợp lệ thì bạn sẽ không thêm mới dữ liệu sai được vào hệ thống. Hệ thống hiện thị thông báo như bên dưới
 
-![](picture\PIC_SME_Vcontract_QLND_ImportKhachHang6.png)
+![](./picture/PIC_SME_Vcontract_QLND_ImportKhachHang6.png)
 
 - Chọn tên file Template\_import\_file\_result.xlsx hoặc click vào icon Download để tải file lỗi về xem cụ thể là lỗi như thế nào. File mở ra sẽ như bên dưới
 
-![](picture\PIC_SME_VContract_QLND_ImportKhachHang7.png)
+![](./picture/PIC_SME_VContract_QLND_ImportKhachHang7.png)
 
 - Dữ liệu nào bị lỗi thì sẽ có chữ Lỗi ở cột Kết quả và người dùng click chuột vào Nội dung dữ liệu thì sẽ hiện thị Nội dung lỗi, như ảnh trên
 - Nếu trong 1 file import mà có cả dữ liệu hợp lệ và không hợp lệ. Thì phần dữ liệu hợp lệ sẽ thực hiện import thành công vào hệ thống và phần dữ liệu không hợp lệ sẽ không thêm vào hệ thống và sẽ báo lỗi ở trên file Template\_import\_file\_result.xlsx trả về.
@@ -517,37 +517,37 @@ Lưu ý: **Trong trường hợp import file bị lỗi dữ liệu**
 - **Mục đích:**  Tìm kiếm theo từng loại hợp đồng
 - **Các bước thực hiện:** Đăng nhập vào hệ thống bằng tài khoản của doanh nghiệp cha có quyền “Quản lý thông tin doanh nghiệp” >> Quản lý TT doanh nghiệp >> Loại hợp đồng >> nhập thông tin tìm kiếm >> nhấn “Tìm kiếm”:
 
-![](picture\PIC_SME_Vcontract_QLLHĐ_TimKiemLoaiHopDong1.png)
+![](./picture/PIC_SME_Vcontract_QLLHĐ_TimKiemLoaiHopDong1.png)
 ##### **Sửa loại hợp đồng**
 - **B1**: Đăng nhập vào hệ thống bằng tài khoản của doanh nghiệp cha có quyền “Quản lý thông tin doanh nghiệp” >> Quản lý TT doanh nghiệp >> Loại hợp đồng >> chọn bản ghi muốn sửa >> sửa
 - **B2**: Nhập thông tin hợp lệ: Tên loại hợp đồng, Mã loại hợp đồng, Ghi chú
 - **B3**: Nhấn “lưu”
 
-![](picture\PIC_SME_Vcontract_QLLHĐ_SuaLoaiHopDong.png)
+![](./picture/PIC_SME_Vcontract_QLLHĐ_SuaLoaiHopDong.png)
 ##### **Xóa loại hợp đồng**
 **Các bước thực hiện**: Đăng nhập vào hệ thống bằng tài khoản của doanh nghiệp cha có quyền “Quản lý thông tin doanh nghiệp” >> Quản lý TT doanh nghiệp >> Loại hợp đồng >> chọn bản ghi muốn xóa >> xóa >> Đồng ý.
 #### **Quản lý mẫu hợp đồng**
 - Có sẵn các biểu mẫu hợp đồng cho người dùng chọn
 
-![](picture\PIC_SME_Vcontract_QLMHĐ.png)
+![](./picture/PIC_SME_Vcontract_QLMHĐ.png)
 ##### **Sửa mẫu hợp đồng**
 - Cho phép sửa thông tin mẫu hợp đồng. Chú ý Tên mẫu hợp đồng là phải duy nhất, không được trùng với tên đã có ở Danh sách
 
-![](picture\PIC_SME_Vcontract_QLMHĐ_SuaMauHopDong.png)
+![](./picture/PIC_SME_Vcontract_QLMHĐ_SuaMauHopDong.png)
 ##### **Xem mẫu hợp đồng**
 - Chọn icon Xem để xem chi tiết hợp đồng mẫu
 
-![](picture\PIC_SME_Vcontract_QLLHĐ_XemMauHopDong.png)
+![](./picture/PIC_SME_Vcontract_QLLHĐ_XemMauHopDong.png)
 ##### **Tìm kiếm mẫu hợp đồng**
 - Cho phép tìm kiếm theo Tên hoặc theo trạng thái như bên dưới
 
-![](picture\PIC_SME_Vcontract_QLLHĐ_TimKiemMauHopDong.png)
+![](./picture/PIC_SME_Vcontract_QLLHĐ_TimKiemMauHopDong.png)
 ##### **Trạng thái mẫu hợp đồng**
 - Mẫu hợp đồng có 2 trạng thái là Hoạt động và Ngừng hoạt động:
 
-![](picture\PIC_SME_Vcontract_QLMHĐ_TrangThaiMauHopDong1.png)
+![](./picture/PIC_SME_Vcontract_QLMHĐ_TrangThaiMauHopDong1.png)
 
 - Khi muốn chuyển trạng thái thì chọn icon ở cột trạng thái để chuyển như bên dưới
 
-![](picture\PIC_SME_Vcontract_QLLHĐ_TrangThaiMauHopDong2.png)
+![](./picture/PIC_SME_Vcontract_QLLHĐ_TrangThaiMauHopDong2.png)
 
