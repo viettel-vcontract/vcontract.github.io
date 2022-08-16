@@ -6,7 +6,8 @@ nav:
         - 'Thiết lập luồng ký hợp đồng': 'vContract/thiet-lap-luong-ky.md'
         - 'Chức năng cơ bản cho doanh nghiệp': 'vContract/chuc-nang-co-ban-cho-doanh-nghiep.md'
         - 'Chức năng hợp đồng': 'vContract/chuc-nang-hop-dong.md'   
-        - 'Chức năng lập hợp đồng mẫu cơ bản': 'vContract/lap_hop_dong_theo_mau_co_ban.md'        
+        - 'Chức năng lập hợp đồng mẫu cơ bản': 'vContract/lap_hop_dong_theo_mau_co_ban.md'  
+        - 'Hướng dẫn sử dụng lập hợp đồng': 'vContract/hdsd_lap_hop_dong.md'      
     - 'Release Notes': 'release-notes.md'
 theme:
     name: readthedocs
