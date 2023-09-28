@@ -78,7 +78,9 @@
 **Các bước thực hiện:**
 
 - **Bước 1** : Tại cột **Loại phương thức ký** chọn **SIM CA**.
+
   ![](./picture/dang-ky-phuong-thuc-sim-ca-b1.png)
+
 - **Bước 2** : Tại cột **Số điện thoại**: Nhập số điện thoại chứa chứng thư số cần đăng ký.
 - **Bước 3** : Nhấn "Lấy danh sách CTS" >> tích chọn Chứng thư số cần đăng ký trong danh sách.
 - **Bước 4** : Đọc thồn tin điều khoản sử dụng và tích chọn "Tôi đã đọc..." >> nhấn "Lưu" để thêm mới.
