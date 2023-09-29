@@ -4,7 +4,7 @@
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/hzohbt0v3FI?si=UN9So5585lChyQF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- **Loại hợp đồng**: dùng để phân nhóm các hợp đồng của đơn vi, hỗ trợ cho tìm kiếm và cấu hình các chức năng khách trong hợp đồng
+- **Loại hợp đồng**: dùng để phân nhóm các hợp đồng của đơn vị, hỗ trợ cho tìm kiếm và cấu hình các chức năng khác trong hệ thống.
 - **Hệ thống quy định**: mỗi đơn vị sử dụng dịch vụ có ít nhất 1 loại hợp đồng, các chủ thể là khách hàng cuối chỉ thực hiện ký hợp đồng không thực hiện các chức năng này.
 - Các bước thiết lập loại hợp đồng:
 
@@ -47,14 +47,14 @@
 
 - **Phương thức ký**: là hình thức ký số mà đơn vị sử dụng để ký hợp đồng.
 - **Hệ thống quy định**:
-  - Đơn vị tham gia ký kết là doanh nghiệp/tổ chức >> bắt buộc ký bằng CA (USB Token, Sim CA, Clound CA).
-  - Đơn vị tham gia ký kết là cá nhân >> có thể ký bằng CA (USB Token, Sim CA, Clound CA) hoặc OTP.
+  - Đơn vị tham gia ký kết là doanh nghiệp/tổ chức >> bắt buộc ký bằng CA (USB Token, Sim CA, Cloud CA).
+  - Đơn vị tham gia ký kết là cá nhân >> có thể ký bằng CA (USB Token, Sim CA, Cloud CA) hoặc OTP.
   - Các bước thiết lập phương thức ký:
     - **Bước 1**: Chọn menu chính "Cấu hình chung" (menu trái)
     - **Bước 2**: Chọn menu chức năng "Phương thức ký"
     - **Bước 3**: Click nút "Thêm mới"
     - **Bước 4**: Điền thông tin 1 hình thức ký >> Click "Lưu"
-      Ngoài ra, người dùng có thể thiết lập nhanh Phương thức ký trên trực tiếp trang ký 1 hợp đồng (tương đương bước 4)
+      <br>Ngoài ra, người dùng có thể thiết lập nhanh Phương thức ký trên trực tiếp trang ký 1 hợp đồng (tương đương bước 4)
       ![](./picture/thiet-lap-phuong-thuc-ky-b4.png)
 
 #### **Đăng ký phương thức ký USB TOKEN**
@@ -68,8 +68,7 @@
 - **Bước 2** : Click "Tải lên từ USB-token" >> Chọn chức thư số cần thêm mới.
   ![](./picture/dang-ky-phuong-thuc-usb-token-b2.png)
 - **Bước 3** :Hiển thị thông tin Chứng thư số đã chọn >> Đọc thông tin điều khoản sử dụng và tích vào checkbox "tô đã đọc..." >> nhấn "Lưu"
-
-**->** Sau khi thêm thành công, chứng thư số sẽ được thêm vào phần danh sách phương thức ký.
+<br>**->** Sau khi thêm thành công, chứng thư số sẽ được thêm vào phần danh sách phương thức ký.
 
 #### **Đăng ký phương thức ký SIM CA**
 
@@ -81,9 +80,8 @@
   ![](./picture/dang-ky-phuong-thuc-sim-ca-b1.png)
 - **Bước 2** : Tại cột **Số điện thoại**: Nhập số điện thoại chứa chứng thư số cần đăng ký.
 - **Bước 3** : Nhấn "Lấy danh sách CTS" >> tích chọn Chứng thư số cần đăng ký trong danh sách.
-- **Bước 4** : Đọc thồn tin điều khoản sử dụng và tích chọn "Tôi đã đọc..." >> nhấn "Lưu" để thêm mới.
-
-**->** Sau khi thêm thành công, chứng thư số sẽ được thêm vào phần danh sách phương thức ký.
+- **Bước 4** : Đọc thông tin điều khoản sử dụng và tích chọn "Tôi đã đọc..." >> nhấn "Lưu" để thêm mới.
+<br>**->** Sau khi thêm thành công, chứng thư số sẽ được thêm vào phần danh sách phương thức ký.
 
 #### **Đăng ký phương thức ký CloudCA**
 
@@ -105,40 +103,40 @@
   ![](./picture/them-mot-khach-hang-b2.png)
 
   - **Thông tin khách hàng:**
-    - Loại khách hàng: bắt buộc.
-    - Tên khách hàng: bắt buộc.
-    - Ngày sinh (Đối với loại khách hàng là cá nhân): không bắt buộc.
-    - Giới tính (Đối với loại khách hàng là cá nhân): không bắt buộc.
-    - Loại giấy tờ: bắt buộc.
-    - Số giấy tờ: bắt buộc.
-    - Ngày cấp: bắt buộc.
-    - Nơi cấp: bắt buộc.
-    - Mã số thuế: không bắt buộc.
+    - Loại khách hàng: bắt buộc
+    - Tên khách hàng: bắt buộc
+    - Ngày sinh (Đối với loại khách hàng là cá nhân): không bắt buộc
+    - Giới tính (Đối với loại khách hàng là cá nhân): không bắt buộc
+    - Loại giấy tờ: bắt buộc
+    - Số giấy tờ: bắt buộc
+    - Ngày cấp: bắt buộc
+    - Nơi cấp: bắt buộc
+    - Mã số thuế: không bắt buộc
   - **Thông tin liên hệ:**
-    - Tỉnh/Thành phố: bắt buộc.
-    - Quận/Huyện: bắt buộc.
-    - Phường/Xã: không bắt buộc.
-    - Địa chỉ: bắt buộc.
-    - Email: bắt buộc.
-    - Điện thoại: bắt buộc.
-    - Fax: không bắt buộc.
+    - Tỉnh/Thành phố: bắt buộc
+    - Quận/Huyện: bắt buộc
+    - Phường/Xã: không bắt buộc
+    - Địa chỉ: bắt buộc
+    - Email: bắt buộc
+    - Điện thoại: bắt buộc
+    - Fax: không bắt buộc
   - **Thông tin người đại diện (Đối với loại khách hàng là tổ chức):**
-    - Họ và tên: bắt buộc.
-    - Chức vụ: bắt buộc.
-    - Ngày sinh: không bắt buộc.
-    - Loại giấy tờ: không bắt buộc.
-    - Số giấy tờ: không bắt buộc.
-    - Ngày cấp: không bắt buộc.
-    - Nơi cấp: không bắt buộc.
+    - Họ và tên: bắt buộc
+    - Chức vụ: bắt buộc
+    - Ngày sinh: không bắt buộc
+    - Loại giấy tờ: không bắt buộc
+    - Số giấy tờ: không bắt buộc
+    - Ngày cấp: không bắt buộc
+    - Nơi cấp: không bắt buộc
   - **Thông tin thanh toán:**
-    - Ngân hàng: không bắt buộc.
-    - Số tài khoản: không bắt buộc.
-    - Chi nhánh: không bắt buộc.
+    - Ngân hàng: không bắt buộc
+    - Số tài khoản: không bắt buộc
+    - Chi nhánh: không bắt buộc
   - **Tệp đính kèm:**
 
   **Ghi chú:** Những trường có chứa kí tự (\*) là bắt buộc.
 
-- **Bước 3** : Click vòa nút **Lưu** để hoàn thành.
+- **Bước 3** : Click vào nút **Lưu** để hoàn thành.
 - **Bước 4** : Sau khi thêm mới khách hàng thành công, hệ thống sẽ thực hiện gửi tài khoản đăng nhập vào hệ thống cho khách hàng qua email.
 
 #### **Thêm mới danh sách khách hàng**
@@ -154,7 +152,7 @@
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/j5QbhbT4VCo?si=Fr1KB0mMPz-bEZ28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - **Quản lý mẫu:** Cho phép nhân viên đơn vị thiết lập nhanh hợp đồng, không cần soạn thảo sẵn tại máy tính.
-- Đơn vị có thể tùy chọn sử dụng Mãu hoặc không, hiện hệ thống có 8 mẫu cố định để đơn vị lưa chọn.
+- Đơn vị có thể tùy chọn sử dụng Mẫu hoặc không, hiện hệ thống có 8 mẫu cố định để đơn vị lưa chọn.
 - Các bước thiết lập loại hợp đồng:
 
   - **Bước 1**: Chọn menu chính "Cấu hình chung" (menu trái).
@@ -162,7 +160,7 @@
     ![](./picture/thiet-lap-mau-hop-dong-b2.png)
   - **Bước 3**: Thêm hợp đồng.
 
-- Nếu người dùng muốn sử dụng mẫu sẵn của hệ thống thì thực hiện click chọn "Tìm kiếm hợp đồng". Hệ thống sẽ view ra các hợp đồng và người thực hiện Tải mẫu về.
+- Nếu người dùng muốn sử dụng mẫu sẵn của hệ thống thì thực hiện click chọn "Tìm kiếm hợp đồng". Hệ thống sẽ view ra các hợp đồng và người dùng thực hiện Tải mẫu về.
 
 ![](./picture/kho-mau-hop-dong.png)
 ![](./picture/tai-mau-hop-dong.png)
@@ -183,14 +181,14 @@
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/vBRoYJHQpK4?si=Wgqf2GxuEEi5wbE6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**Quy trình ký:** Là luồng quy trình mà đơn vị sẽ quy định áp dùng mặc định cho mọi loại hợp đồng nếu chọn quy trình này.
+**Quy trình ký:** Là luồng quy trình mà đơn vị sẽ quy định áp dụng mặc định cho mọi loại hợp đồng nếu chọn quy trình này.
 
 **Các bước thực hiện:**
 
 - **Bước 1**: Truy cập Cấu hình chung >> Quy trình ký đơn vị >> Thêm mới quy trình.
 - **Buóc 2**: Điền các thông tin:
 
-  - Tab Thong tin quy trìnhL Điền thông tin quy trình, loại quy trình, mô tả (nếu có).
+  - Tab Thông tin quy trình: Điền thông tin quy trình, loại quy trình, mô tả (nếu có).
   - Tab Các bên ký kết hợp đồng: Người dùng thiết lập các bên tham gia ký theo thứ tự sắp xếp.
 
   Lưu ý: Cho phép tích hợp chọn ký KKĐN (ký không cần đăng nhập).
@@ -210,11 +208,14 @@
 - **Bước 1**: Truy cập hệ thống >> Cấu hình chung >> Danh mục chung.
   ![](./picture/danh-muc-chung-b1.png)
 - **Bước 2**: Thực hiện Thêm mới danh mục cần sử dụng cho mẫu như sau.
-  ![](./picture/danh-muc-chung-b2.png) - Mã danh mục: Không được nhập có khoảng trắng, bắt buộc nhập. - Tên: Nhập nội dung tên, bắt buộc nhập. - Chọn giá trị tương ứng của danh mục cha (nếu có).
+  ![](./picture/danh-muc-chung-b2.png) 
+  <br>- Mã danh mục: Không được nhập có khoảng trắng, bắt buộc nhập.
+  <br>- Tên: Nhập nội dung tên, bắt buộc nhập.
+  <br>- Chọn giá trị tương ứng của danh mục cha (nếu có).
 
 Lưu ý: Trên thông tin danh mục có chọn danh mục cha thì dưới bảng có đủ dữ liệu excel sang, bạn có thể copy nhiều dòng mà không cần bấn nút "Thêm dòng".
 
-- Với mẫu hợp đôgnf QRCODE trên, thì người dùng cần khai báo danh mục sau:
+- Với mẫu hợp đồng QRCODE trên, thì người dùng cần khai báo danh mục sau:
   - **Danh mục 1:** Hình thức thanh toán, bao gồm hai Mã - Giá trị tương ứng là:
     - TM - Thanh toán tiền mặt.
     - CK - Thanh toán chuyển khoản.
@@ -235,20 +236,19 @@ Lưu ý: Trên thông tin danh mục có chọn danh mục cha thì dưới bả
 
 ### **Quản lý phòng ban/chi nhánh**
 
-Quản lý các chi nhanh của đơn vị: tìm kiếm/thêm mới/sửa chi nhanh/thiết lập trạng thái hoạt động cho chi nhánh.
+Quản lý các chi nhánh của đơn vị: tìm kiếm/thêm mới/sửa chi nhanh/thiết lập trạng thái hoạt động cho chi nhánh.
 Để truy cập chức năng: vào menu "Quản lý TT doanh nghiệp" >> "Quản lý phòng ban/chi nhánh".
 
 ![](./picture/quan-ly-phong-ban-chi-nhanh-1.png)
 
 ![](./picture/quan-ly-phong-ban-chi-nhanh-2.png)
-
+<br>Người dùng thực hiện điền các thông tin: Mã phòng ban, phân loại (chi nhánh hoặc phòng ban), tên phòng ban, mô tả (nếu có).
 ### **Quản lý người dùng**
 
  <iframe width="100%" height="315" src="https://www.youtube.com/embed/hM4maNdyALY?si=Yuolo8ZJmceqYlhP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Mục để doanh nghiệp quản lý người dùng của đơn vị mình. Các chức năng gồm: tìm kiếm/thêm mới/sửa thông tin người dùng/phân quyền/thiết lập trạng thái hoạt động cho người dùng.
-
-Để truy cập chức năng: vào menu **" Quản lý TT doanh nghiệp"** >> **"Người dùng"**.
+<br> Để truy cập chức năng: vào menu **" Quản lý TT doanh nghiệp"** >> **"Người dùng"**.
 
 ![](./picture/quan-ly-nguoi-dung-1.png)
 
@@ -257,7 +257,7 @@ Có 02 cách để thêm người dùng:
 - **Cách 1:** Thực hiện thêm mới từng cá nhân, khách hàng điền các thông tin: email, tên đăng nhập, họ và tên, loại người dùng, số điện thoại, phòng ban,...
   ![](./picture/quan-ly-nguoi-dung-cach-1.png)
 - **Cách 2:** Thực hiện import hàng loại người dùng bằng cách "Thêm từ file".
-  Tại (1) khahcs hàng tải file mẫu về và điền các thông tin trong file excel sau đó import lên (2).
+  Tại (1) khách hàng tải file mẫu về và điền các thông tin trong file excel sau đó import lên (2).
   ![](./picture/quan-ly-nguoi-dung-cach-2.png)
 
 ### **Nhóm quyền**
