@@ -115,7 +115,7 @@
   - **Thông tin liên hệ:**
     - Tỉnh/Thành phố: bắt buộc
     - Quận/Huyện: bắt buộc
-    - Phường/Xã:  Bắt buộc
+    - Phường/Xã:  bắt buộc
     - Địa chỉ: bắt buộc
     - Email: bắt buộc
     - Điện thoại: bắt buộc

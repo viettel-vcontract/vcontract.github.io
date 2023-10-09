@@ -26,7 +26,7 @@
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/1UtQeEGZsOw?si=omBtmd2JwEyqdEhc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- **Bước 1**: Truy cập Hợp đồng của lô >> HĐ tôi lập >> Thêm mới lô.
+- **Bước 1**: Truy cập Hợp đồng của tôi >> HĐ tôi lập >> Thêm mới lô.
   ![](./picture/lap-hop-dong-theo-lo-b1.png)
 - **Bước 2**: Thực hiện chọn mẫu hợp đồng áp dụng theo lô.
   ![](./picture/lap-hop-dong-theo-lo-b2.png)
