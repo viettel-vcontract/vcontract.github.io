@@ -115,7 +115,7 @@
   - **Thông tin liên hệ:**
     - Tỉnh/Thành phố: bắt buộc
     - Quận/Huyện: bắt buộc
-    - Phường/Xã: không bắt buộc
+    - Phường/Xã:  Bắt buộc
     - Địa chỉ: bắt buộc
     - Email: bắt buộc
     - Điện thoại: bắt buộc
@@ -124,6 +124,7 @@
     - Họ và tên: bắt buộc
     - Chức vụ: bắt buộc
     - Ngày sinh: không bắt buộc
+    - Giới tính: không bắt buộc
     - Loại giấy tờ: không bắt buộc
     - Số giấy tờ: không bắt buộc
     - Ngày cấp: không bắt buộc
@@ -152,7 +153,7 @@
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/j5QbhbT4VCo?si=Fr1KB0mMPz-bEZ28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - **Quản lý mẫu:** Cho phép nhân viên đơn vị thiết lập nhanh hợp đồng, không cần soạn thảo sẵn tại máy tính.
-- Đơn vị có thể tùy chọn sử dụng Mẫu hoặc không, hiện hệ thống có 8 mẫu cố định để đơn vị lưa chọn.
+- Đơn vị có thể tùy chọn sử dụng Mẫu hoặc không, hiện hệ thống có 8 mẫu cố định để đơn vị lựa chọn.
 - Các bước thiết lập loại hợp đồng:
 
   - **Bước 1**: Chọn menu chính "Cấu hình chung" (menu trái).
@@ -171,7 +172,7 @@
   - (2) Tab Thông tin file mẫu: Upload file docx của Khách hàng.
   - (3) Tab Cấu hình thông tin trong mẫu:
 
-    - Cấu hình nội dung: Sau khi thực hiện (2) thành công thì hệ thống sẽ show ra các trường merge filed để Khách hàng kiểm tra lại thông tin và có thể thực hiện thêm mới.
+    - Cấu hình nội dung: Sau khi thực hiện (2) thành công thì hệ thống sẽ show ra các trường merge field để Khách hàng kiểm tra lại thông tin và có thể thực hiện thêm mới.
     - Cấu hình: Trang ký.
     - Cấu hình luồng ký của đơn vị: Setup luồng ký áp dụng cho mẫu này.
 
@@ -197,7 +198,7 @@
 
   ![](./picture/quy-trinh-ky-don-vi-b2.2.png)
 
-- **Bước 3**: Sau khi hoàn thiệu quy trình ký, người dùng thực hiện click "Cập nhật quy trình" để hoàn tất.
+- **Bước 3**: Sau khi hoàn thiện quy trình ký, người dùng thực hiện click "Cập nhật quy trình" để hoàn tất.
 
 ### **Danh mục chung**
 
@@ -213,7 +214,8 @@
   <br>- Tên: Nhập nội dung tên, bắt buộc nhập.
   <br>- Chọn giá trị tương ứng của danh mục cha (nếu có).
 
-Lưu ý: Trên thông tin danh mục có chọn danh mục cha thì dưới bảng có đủ dữ liệu excel sang, bạn có thể copy nhiều dòng mà không cần bấn nút "Thêm dòng".
+Lưu ý: Trên thông tin danh mục có chọn danh mục cha thì dưới bảng có đủ dữ liệu để chọn giá trị tương ứng.
+  <br>- Các ô Mã và giá trị có thể thực hiện copy/paste từ excel sang, bạn có thể copy nhiều dòng mà không cần bấm nút "Thêm dòng".
 
 - Với mẫu hợp đồng QRCODE trên, thì người dùng cần khai báo danh mục sau:
   - **Danh mục 1:** Hình thức thanh toán, bao gồm hai Mã - Giá trị tương ứng là:
@@ -232,7 +234,7 @@ Lưu ý: Trên thông tin danh mục có chọn danh mục cha thì dưới bả
   - **Danh mục 6:** Đơn giá dịch vụ QR Code:
     - Mục đích: Khai báo giá của dịch vụ tạo QR code.
     - Danh mục Đơn giá gói dịch vụ sẽ có danh mục cha là Danh mục gói QR Code.
-    - Người dùng sẽ khai báo tương ứng các Giá trị = Giá của gói QR và có Giá trị tương ứng của danh mục cha = Tên sản phẩm.
+    - Người dùng sẽ khai báo tương ứng các Giá trị = Giá của gói QR code và có Giá trị tương ứng của danh mục cha = Tên sản phẩm.
 
 ### **Quản lý phòng ban/chi nhánh**
 
@@ -256,7 +258,7 @@ Có 02 cách để thêm người dùng:
 
 - **Cách 1:** Thực hiện thêm mới từng cá nhân, khách hàng điền các thông tin: email, tên đăng nhập, họ và tên, loại người dùng, số điện thoại, phòng ban,...
   ![](./picture/quan-ly-nguoi-dung-cach-1.png)
-- **Cách 2:** Thực hiện import hàng loại người dùng bằng cách "Thêm từ file".
+- **Cách 2:** Thực hiện import hàng loạt người dùng bằng cách "Thêm từ file".
   Tại (1) khách hàng tải file mẫu về và điền các thông tin trong file excel sau đó import lên (2).
   ![](./picture/quan-ly-nguoi-dung-cach-2.png)
 
@@ -266,7 +268,7 @@ Có 02 cách để thêm người dùng:
 
 Mục để doanh nghiệp quản lý các nhóm người dùng có chung các quyền thao tác trên website dịch vụ. Các chức năng gồm: tìm kiếm/thêm mới/sửa thông tin nhóm/phân quyền/ thiết lập trạng thái hoạt động cho nhóm người dùng.
 
-Để truy cập chức năng: vòa menu "Quản lý TT doanh nghiệp" >> "Nhóm quyền".
+Để truy cập chức năng: vào menu "Quản lý TT doanh nghiệp" >> "Nhóm quyền".
 
 - Tại Tab Phân quyền theo chức quyền: Thực hiện chọn quyền truy cập, sử dụng chức năng của phần mềm.
 - Tại Tab Phân quyền theo dữ liệu: thực hiện bật chế độ quản lý hợp đồng để lựa chọn các thông tin.

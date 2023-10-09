@@ -26,7 +26,7 @@
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/1UtQeEGZsOw?si=omBtmd2JwEyqdEhc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- **Bước 1**: Truy cập Hợp đồng của tô >> HĐ tôi lập >> Thêm mới lô.
+- **Bước 1**: Truy cập Hợp đồng của lô >> HĐ tôi lập >> Thêm mới lô.
   ![](./picture/lap-hop-dong-theo-lo-b1.png)
 - **Bước 2**: Thực hiện chọn mẫu hợp đồng áp dụng theo lô.
   ![](./picture/lap-hop-dong-theo-lo-b2.png)
@@ -192,7 +192,7 @@ Sau khi đã soạn thảo hoàn tất 1 hợp đồng, người lập chuyển 
     ![](./picture/ky-hop-dong-b1.png)
   - **Bước 2:** Từ màn hình xem chi tiết tài liệu chọn ![Alt text](image-2.png) >> chọn vị trí ký:
     ![](./picture/ky-hop-dong-b2.1.png)
-    **Lưu ý:** Người dùng có thể thực hiện ý theo lô cho các hợp đồng chưa được ký.
+    **Lưu ý:** Người dùng có thể thực hiện ký theo lô cho các hợp đồng chưa được ký.
     ![](./picture/ky-hop-dong-b2.2.png)
 
 #### **Ký bằng USB Token**
@@ -214,13 +214,13 @@ Sau khi đã soạn thảo hoàn tất 1 hợp đồng, người lập chuyển 
 #### **Ký bằng SIM CA**
 
 - **Cách 1: Sử dụng ảnh chứng thư số đã đăng ký:**
-  Tạo màn hình "Ký số hợp đồng" >> Chọn phương thức ký "SIMCA" >> Chọn chứng thư số >> Nhấn "Tiếp theo" >> Tab "Ảnh đã đăng ký" >> Nhấn "Tiếp theo" >> Click để chọn vị trí hiển thị ảnh ký trên hợp đồng >> Nhấn "Ký" để thực hiện ký thành công.
+  Tại màn hình "Ký số hợp đồng" >> Chọn phương thức ký "SIMCA" >> Chọn chứng thư số >> Nhấn "Tiếp theo" >> Tab "Ảnh đã đăng ký" >> Nhấn "Tiếp theo" >> Click để chọn vị trí hiển thị ảnh ký trên hợp đồng >> Nhấn "Ký" để thực hiện ký thành công.
 - **Cách 2: Vẽ ảnh chữ ký:**
   - Tại màn hình "Ký số hợp đồng" >> Chọn phương thức ký "SIMCA" >> Chọn chứng thư số >> Nhấn "Tiếp theo" >> Tab "Vẽ chữ ký" thực hiện di chuột để vẽ chữ ký mong muốn >> Nhấn "Tiếp theo" >> Click để chọn vị trí hiển thị ảnh ký trên hợp đồng >> Nhấn "Ký" để thực hiện ký thành công.
   - Hệ thống thông báo "Ký hợp đồng thành công" để hoàn thành thao tác ký.
 - **Cách 3: Tải ảnh mới**
   - Tại màn hình "Ký số hợp đồng" >> Chọn phương thức ký "SIMCA" >> chọn chứng thư số >> Nhấn "Tiếp theo" >> Tab "Tải ảnh mới lên" nhấn chuột vào ô chữ nhật để tải ảnh mới cho phương thức ký đã chọn >> Nhấn "Tiếp theo" >> Click để chọn vị trí hiển thị ảnh ký trên hợp đồng >> Nhấn "Ký" để thực hiện ký thành công.
-  - Hệ thống thông báo "Ký hợp dồng thành công" để hoàn thành thao tác ký.
+  - Hệ thống thông báo "Ký hợp đồng thành công" để hoàn thành thao tác ký.
 
 #### **Ký bằng Cloud CA**
 
