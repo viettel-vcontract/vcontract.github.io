@@ -276,5 +276,3 @@ Mục để doanh nghiệp quản lý các nhóm người dùng có chung các q
 - Tại Tab Phân quyền theo dữ liệu: thực hiện bật chế độ quản lý hợp đồng để lựa chọn các thông tin.
 
 ![](./picture/nhom-quyen.png)
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/hzohbt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
