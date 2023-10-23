@@ -14,7 +14,7 @@
   ![](./picture/lap-hop-dong-chon-tep-tu-may-b5.1.png)
   ![](./picture/lap-hop-dong-chon-tep-tu-may-b5.2.png)
 - **Bước 6**: Thiết lập các bên ký kết.
-  - Chọn các bên tham gia ký kết: Để thêm 1 bên ký kết phải nhập đúng số giấy tờ/mã số thuế của bên tham gia ký kết >> Hệ thống hiển thị tên chủ thể chi người dùng chọn.
+  - Chọn các bên tham gia ký kết: Để thêm 1 bên ký kết phải nhập đúng số giấy tờ/mã số thuế của bên tham gia ký kết >> Hệ thống hiển thị tên chủ thể cho người dùng chọn.
   - Thiết lập thứ tự ký: Nhập thứ tự ký cho từng chủ thể ở cột đầu tiên "TT ký", có thể thiết lập ký song song bằng cách đặt thứ tự ký của các chủ thể bằng nhau.
 - **Bước 7**: Thiết lập luồng phê duyệt-ký duyệt của nội bộ bên lập (nếu bên lập tham gia ký kết)
   - Thêm người dùng vào luồng phê duyệt/ký duyệt bằng gõ tên/email của người dùng cần thêm >> Hệ thống hiển thị các người dùng phù hợp với nội dung nhập vào để người lập chọn.
@@ -26,13 +26,13 @@
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/1UtQeEGZsOw?si=omBtmd2JwEyqdEhc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- **Bước 1**: Truy cập Hợp đồng của tô >> HĐ tôi lập >> Thêm mới lô.
+- **Bước 1**: Truy cập Hợp đồng của tôi >> HĐ tôi lập >> Thêm mới lô.
   ![](./picture/lap-hop-dong-theo-lo-b1.png)
 - **Bước 2**: Thực hiện chọn mẫu hợp đồng áp dụng theo lô.
   ![](./picture/lap-hop-dong-theo-lo-b2.png)
 - **Bước 3**: Thiết lập thông tin và cấu hình cho lô.
   - Tại Thông tin mẫu tạo lô (1): Người dùng thực hiện tải file excel mẫu mà hệ thống đã thiết lập sẵn, điền các thông tin yêu cầu. Và tải file excel đó lên hệ thống.
-  - Tại Cấu hình luồng ký theo lô (2): THực hiện chọn người phê duyệt, ký áp dụng xuyên suốt cho lô hợp đồng này.
+  - Tại Cấu hình luồng ký theo lô (2): Thực hiện chọn người phê duyệt, ký áp dụng xuyên suốt cho lô hợp đồng này.
   - Tại Thiết lập cấu hình chân ký (3): Đã thiết lập theo mẫu hợp đồng chọn ban đầu.
     ![](./picture/lap-hop-dong-theo-lo-b3.png)
 
@@ -53,22 +53,22 @@
 
   **Trong đó:**
 
-  **(1)Nhập thông tin chung:**
+  **(1) Nhập thông tin chung:**
 
   Bao gồm:
 
   - Mẫu hợp đồng: Hiển thị tên mẫu hợp đồng đã chọn ở bước 1.
-  - Loại hợp đồng: Hiển thị laoị hợp đồng của mẫu đã chọn.
+  - Loại hợp đồng: Hiển thị loại hợp đồng của mẫu đã chọn.
   - Tên hợp đồng/phụ lục: đây là tên của hợp đồng đang lập - bắt buộc nhập.
   - Mã hợp đồng/phụ lục: đây là mã của hợp đồng đang lập - bắt buộc nhập, không được nhập trùng, không có khoảng trắng.
 
-  **(2)Danh sách tệp đính kèm:** Tải các tệp đính kèm - Chỉ chấp nhận tập tin PDF (_.pdf) và tập tin hình ảnh (_.jbg, _.png, _.bmp).
+  **(2) Danh sách tệp đính kèm:** Tải các tệp đính kèm - Chỉ chấp nhận tập tin PDF (_.pdf) và tập tin hình ảnh (_.jpg, _.png, _.bmp).
 
-  **(3)Các bên ký hợp đồng:** Thiết lập các bên thực hiện ký kết hợp đồng, có 1 bên lập và nhiều bên khách hàng. Phải có ít nhất 1 đối tượng ký hợp đồng.
+  **(3) Các bên ký hợp đồng:** Thiết lập các bên thực hiện ký kết hợp đồng, có 1 bên lập và nhiều bên khách hàng. Phải có ít nhất 1 đối tượng ký hợp đồng.
 
   - Nhập đúng số giấy tờ/Mã số thuế của bên ký kết để hệ thống suggest thông tin.
 
-  **(4)Thiết lập luồng duyệt - ký hợp đồng nội bộ:** Yêu cầu thiết lập thành viên trong nội bộ thực hiện ký, sẽ có nhiều người duyệt nhưng chỉ có 1 người ký.
+  **(4) Thiết lập luồng duyệt - ký hợp đồng nội bộ:** Yêu cầu thiết lập thành viên trong nội bộ thực hiện ký, sẽ có nhiều người duyệt nhưng chỉ có 1 người ký.
 
   - Nhập đúng email để suggest thông tin thành viên.
 
@@ -109,7 +109,7 @@
 
 - **Bước 1**: Tại menu danh mục Hợp đồng của tôi **->** Chọn Hợp đồng tôi lập. Hệ thống hiển thị màn hình Hợp đồng tôi lập.
   ![](./picture/chinh-sua-hop-dong-b1.png)
-- **Bước 2**: Chọn hợp đồng và bấm nút "Chỉnh sửa". Tùy hợp đồng được chọn lập theo hình thức Chọn tệp từ máy hay CHọn từ mẫu hệ thống sẽ hiển thị ra màn hình tương ứng.
+- **Bước 2**: Chọn hợp đồng và bấm nút "Chỉnh sửa". Tùy hợp đồng được chọn lập theo hình thức Chọn tệp từ máy hay Chọn từ mẫu hệ thống sẽ hiển thị ra màn hình tương ứng.
   - Nếu **Chọn tệp từ máy ->** Chuyển màn hình bước 3.
   - Nếu **Chọn từ mẫu ->** Chuyển màn hình bước 1.
 - **Bước 3**: Các bước tiếp theo tương tự khi Lập hợp đồng.
@@ -124,7 +124,7 @@
 
 - **Bước 1**: Tại menu danh mục Hợp đồng của tôi **->** Chọn hợp đồng tôi lập. Hệ thống hiển thị màn hình Hợp đồng tôi lập.
   ![](./picture/sao-chep-hop-dong-b1.png)
-- **Buóc 2**: Chọn hợp đồng và bấm nút "Sao chép". Tùy hợp đồng được chọn lập theo hình thức CHọn tệp từ máy hay chọn từ mẫu hệ thống sẽ hiển thị ra màn hình tương ứng.
+- **Bước 2**: Chọn hợp đồng và bấm nút "Sao chép". Tùy hợp đồng được chọn lập theo hình thức Chọn tệp từ máy hay chọn từ mẫu hệ thống sẽ hiển thị ra màn hình tương ứng.
 
   - Nếu **Chọn tệp từ máy ->** Chuyển màn hình bước 3 và có nút "Chọn tệp từ máy" để chọn file hợp đồng.
     ![](./picture/sao-chep-hop-dong-b2.png)
@@ -141,15 +141,15 @@
   ![](./picture/huong-dan-cau-hinh-chan-ky-khi-lap-hop-dong-b3.png)
 
   - **Trong đó:**
-    - **(1)Nhập thông tin chung:**
+    - **(1) Nhập thông tin chung:**
       - Mẫu hợp đồng: Hiển thị tên mẫu hợp đồng đã chọn ở bước 1.
       - Loại hợp đồng: Hiển thị laoị hợp đồng của mẫu đã chọn.
       - Tên hợp đồng/phụ lục: đây là tên của hợp đồng đang lập - bắt buộc nhập.
       - Mã hợp đồng/phụ lục: đây là mã của hợp đồng đang lập - bắt buộc nhập, không được nhập trùng, không có khoảng trắng.
-    - **(2)Danh sách tệp đính kèm:** Tải các tệp đính kèm - Chỉ chấp nhận tập tin PDF (_.pdf) và tập tin hình ảnh (_.jbg, _.png, _.bmp).
-    - **(3)Các bên ký hợp đồng:** THiết lập các bên thực hiện ký hợp đồng, có 1 bên lập và nhiều bên khách hàng. Phải có ít nhất 1 đối tượng ký hợp đồng.
+    - **(2) Danh sách tệp đính kèm:** Tải các tệp đính kèm - Chỉ chấp nhận tập tin PDF (_.pdf) và tập tin hình ảnh (_.jbg, _.png, _.bmp).
+    - **(3) Các bên ký hợp đồng:** THiết lập các bên thực hiện ký hợp đồng, có 1 bên lập và nhiều bên khách hàng. Phải có ít nhất 1 đối tượng ký hợp đồng.
       - Nhập đúng thông tin email/số điện thoại/Tên khách hàng/số giấy tờ của bên ký kết để hệ thống suggest thông tin.
-    - **(4)Thiết lập luồng duyệt - ký hợp đồng nội bộ:** Yêu cầu thiết lập thành viên trong nội bộ thực hiện ký, sẽ có nhiều người duyệt nhưng chỉ có 1 người ký.
+    - **(4) Thiết lập luồng duyệt - ký hợp đồng nội bộ:** Yêu cầu thiết lập thành viên trong nội bộ thực hiện ký, sẽ có nhiều người duyệt nhưng chỉ có 1 người ký.
       - Nhập đúng email để suggest thông tin thành viên.
 
 - **Bước 4**: Sau khi điền thông tin và thiết lập luồng ký ở bước 1, bấm "Tiếp theo" **->** Chuyển đến màn hình.
@@ -192,7 +192,7 @@ Sau khi đã soạn thảo hoàn tất 1 hợp đồng, người lập chuyển 
     ![](./picture/ky-hop-dong-b1.png)
   - **Bước 2:** Từ màn hình xem chi tiết tài liệu chọn ![Alt text](image-2.png) >> chọn vị trí ký:
     ![](./picture/ky-hop-dong-b2.1.png)
-    **Lưu ý:** Người dùng có thể thực hiện ý theo lô cho các hợp đồng chưa được ký.
+    **Lưu ý:** Người dùng có thể thực hiện ký theo lô cho các hợp đồng chưa được ký.
     ![](./picture/ky-hop-dong-b2.2.png)
 
 #### **Ký bằng USB Token**
@@ -214,13 +214,13 @@ Sau khi đã soạn thảo hoàn tất 1 hợp đồng, người lập chuyển 
 #### **Ký bằng SIM CA**
 
 - **Cách 1: Sử dụng ảnh chứng thư số đã đăng ký:**
-  Tạo màn hình "Ký số hợp đồng" >> Chọn phương thức ký "SIMCA" >> Chọn chứng thư số >> Nhấn "Tiếp theo" >> Tab "Ảnh đã đăng ký" >> Nhấn "Tiếp theo" >> Click để chọn vị trí hiển thị ảnh ký trên hợp đồng >> Nhấn "Ký" để thực hiện ký thành công.
+  Tại màn hình "Ký số hợp đồng" >> Chọn phương thức ký "SIMCA" >> Chọn chứng thư số >> Nhấn "Tiếp theo" >> Tab "Ảnh đã đăng ký" >> Nhấn "Tiếp theo" >> Click để chọn vị trí hiển thị ảnh ký trên hợp đồng >> Nhấn "Ký" để thực hiện ký thành công.
 - **Cách 2: Vẽ ảnh chữ ký:**
   - Tại màn hình "Ký số hợp đồng" >> Chọn phương thức ký "SIMCA" >> Chọn chứng thư số >> Nhấn "Tiếp theo" >> Tab "Vẽ chữ ký" thực hiện di chuột để vẽ chữ ký mong muốn >> Nhấn "Tiếp theo" >> Click để chọn vị trí hiển thị ảnh ký trên hợp đồng >> Nhấn "Ký" để thực hiện ký thành công.
   - Hệ thống thông báo "Ký hợp đồng thành công" để hoàn thành thao tác ký.
 - **Cách 3: Tải ảnh mới**
   - Tại màn hình "Ký số hợp đồng" >> Chọn phương thức ký "SIMCA" >> chọn chứng thư số >> Nhấn "Tiếp theo" >> Tab "Tải ảnh mới lên" nhấn chuột vào ô chữ nhật để tải ảnh mới cho phương thức ký đã chọn >> Nhấn "Tiếp theo" >> Click để chọn vị trí hiển thị ảnh ký trên hợp đồng >> Nhấn "Ký" để thực hiện ký thành công.
-  - Hệ thống thông báo "Ký hợp dồng thành công" để hoàn thành thao tác ký.
+  - Hệ thống thông báo "Ký hợp đồng thành công" để hoàn thành thao tác ký.
 
 #### **Ký bằng Cloud CA**
 
@@ -268,18 +268,18 @@ Sau khi đã soạn thảo hoàn tất 1 hợp đồng, người lập chuyển 
 - **Bước 1:** Thực hiện truy cập **Quản lý hợp đồng** >> **Hợp đồng số hóa**.
   ![](./picture/hop-dong-so-hoa-b1.png)
 - **Bước 2:** Tạo **"Thêm mới"**
-
+  - Chọn tải file lên phần mềm: Hệ thống nhận các định dạng file doc/pdf/rar và dung lượng không quá 100MB
   - Người dùng điền đầy đủ các trường thồn tin sau: Loại hợp đồng, hợp đồng gốc (nếu có), tên hợp đồng, mã hợp đồng, ngày hiệu lực, ngày hết hiệu lực.
-  - Người dùng có thể uplaod nhiều dile theo 1 bộ hợp đồng. Và thực hiện lập hợp đồng.
+  - Người dùng có thể upload nhiều file theo 1 bộ hợp đồng. Và thực hiện lập hợp đồng.
 
   ![](./picture/hop-dong-so-hoa-b2.png)
 
-- **Bước 3:** Sau khi upload hợp đồng giấy lên phần mềm thành cô, người dùng có thể thực hiện các thao tác: xem, sửa, tải,xóa. Và dễ dàng tìm kiếm hợp đồng theo các thông tin thiết lập ban đầu.
+- **Bước 3:** Sau khi upload hợp đồng giấy lên phần mềm thành công, người dùng có thể thực hiện các thao tác: xem, sửa, tải, xóa. Và dễ dàng tìm kiếm hợp đồng theo các thông tin thiết lập ban đầu.
   ![](./picture/hop-dong-so-hoa-b3.png)
 
 ### **Hợp đồng cần xác nhận**
 
-**Mục đích:** Sử dụng trong TH doanh nghiệp ký bằng CTS truóc, bên nhận hợp đồng ký bằng OTP sau và cần DN xác nhận ký lại một lần nữa để đảm bảo tính pháp lý cho hợp đồng.
+**Mục đích:** Sử dụng trong TH doanh nghiệp ký bằng CTS trước, bên nhận hợp đồng ký bằng OTP sau và cần DN xác nhận ký lại một lần nữa để đảm bảo tính pháp lý cho hợp đồng.
 
 **Các bước thực hiện:**
 
@@ -292,6 +292,6 @@ Sau khi đã soạn thảo hoàn tất 1 hợp đồng, người lập chuyển 
     ![](./picture/hop-dong-can-xac-nhan-b3.1.png)
   - Người dùng chọn CTS để thực hiện ký.
     ![](./picture/hop-dong-can-xac-nhan-b3.2.png)
-  - Sau khi doanh nghiệp ký xác nhận thành cô, hệ thống sẽ trả về kết quả Hợp đồng ở dạnh trạng thái Hoàn thành và có giá trị.
+  - Sau khi doanh nghiệp ký xác nhận thành công, hệ thống sẽ trả về kết quả Hợp đồng ở trạng thái Hoàn thành và có giá trị.
     ![](./picture/hop-dong-can-xac-nhan-b3.3.png)
     ![](./picture/hop-dong-can-xac-nhan-b3.4.png)
